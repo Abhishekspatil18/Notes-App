@@ -12,8 +12,6 @@ Model — View — ViewModel (MVVM) is the industry-recognized software architec
  
 ### MVVM Architecture
 
-<img  src="https://miro.medium.com/max/875/1*itYWsxQTfq7xTuvIMrVhYg.png"/>
-
  * **Entity:** Annotated class that describes a database table when working with Room.
 
  * **SQLite database:** On device storage. The Room persistence library creates and maintains this database for you.
